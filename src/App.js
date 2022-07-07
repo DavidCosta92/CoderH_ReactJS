@@ -23,3 +23,8 @@ function App() {
 }
 
 export default App;
+
+
+function probando(){
+  console.log("estoy probando una funcion?")
+}
